@@ -2,3 +2,8 @@
 my_env/
 my_env
 /my_env
+
+.env
+./.env
+.env/
+/.env
